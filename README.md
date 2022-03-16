@@ -3,7 +3,7 @@
 # Hey, doods & doodettes! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
 
 My name is Philip Manning - I'm a designer & developer from New Jersey. 
-<br/>You can find my personal work at [pjmanning.dev](https://pjmanning.dev).
+<br/>You can find my personal work at [pjmanning.dev](https://pjmanning.dev) and my personal github [@pjmanning](https://github.com/pjmanning).
 
 ## &#x270d; Blog & Writing
 
