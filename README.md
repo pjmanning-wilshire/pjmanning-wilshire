@@ -48,7 +48,7 @@ Apart from coding, I occasionally write articles on my life, travels, etc. - you
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-<!-- links to your social media account -->
+<!-- links to your social media accounts -->
 
 [1]: https://twitter.com/pj_manning
 [2]: https://github.com/pjmanning
